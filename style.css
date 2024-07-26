@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+.img{
+    width: 340px;
+    text-align: center;
+    justify-content: center;
+}
+.link{
+    text-align: center;
+    justify-content: center;
+}
+.parágrafo{
+    text-align: justify;
+}
+.div{
+    text-align: center;
+}
